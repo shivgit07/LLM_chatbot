@@ -15,4 +15,4 @@ This is my project in which I have made a question answering chatbot for questio
 
 The code for this given in the `Agentic_RAG.py` file
 
-> **NOTE** The data I had scraped and used for training this chatbot belongs to IIT Bombay and its various organisations and bodies 
+> **NOTE** The data I had scraped and used for this chatbot belongs to IIT Bombay and its various organisations and bodies 
