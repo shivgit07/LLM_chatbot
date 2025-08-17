@@ -11,7 +11,8 @@ This is my project in which I have made a question answering chatbot for questio
 2. Used ChromaDB for semantic retrieval and **LLaMA-2-13B-GPTQ** for efficient generation.
 3. Integrated **LangSmith** for evaluation, tracing, and moderation.
 4. Built a scalable scraping pipeline (20+ IITB sites) and added lightweight output moderation.
-5. Provided a simple CLI (crawl, ingest, chat) for easy updates and usage.
+5. Provided a simple CLI (crawl, ingest, chat) for easy updates and usage.<br>
+
 The code for this given in the `Agentic_RAG.py` file
 
 > **NOTE** The data I had scraped and used for training this chatbot belongs to IIT Bombay and its various organisations and bodies 
